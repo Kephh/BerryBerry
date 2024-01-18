@@ -12,7 +12,7 @@ A dynamic website for buying and selling products. Users can engage and interrac
  - Run on your localhost.
 
 ## Features
-- Sing-in and Sign-up using email id.
+- Sign-in and Sign-up using email id.
 - Grid view of all products with their details.
 - Customer cart page.
 - Product add to cart and remove from cart.
