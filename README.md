@@ -7,6 +7,7 @@ A dynamic website for buying and selling products. Users can engage and interrac
 
  - Download xampp (https://www.apachefriends.org/download.html).
  - Unzip this folder in the path C:\xampp\htdocs
+ - Change the user, password and database fields accordingly.
  - Setup database in http://localhost/phpmyadmin/ and configure connect.php file located in files folder.
  - Run on your localhost.
 
