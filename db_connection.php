@@ -2,10 +2,10 @@
 <?php
 
 // Define database credentials
-define('DB_HOST', 'sql203.infinityfree.com');
-define('DB_USER', 'if0_35516756');
-define('DB_PASSWORD', 'FeoT8QUP7nZ3');
-define('DB_NAME', 'if0_35516756_Page');
+define('DB_HOST', 'localhost');
+define('DB_USER', 'user');
+define('DB_PASSWORD', 'password');
+define('DB_NAME', 'db_name');
 
 function openDatabaseConnection() {
     $conn = new mysqli(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME);
