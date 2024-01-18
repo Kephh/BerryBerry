@@ -16,9 +16,9 @@ A dynamic website for buying and selling products. Users can engage and interrac
 - Customer cart page.
 - Product add to cart and remove from cart.
 - Customer profile updation feature.
-- like and comment feature.
-- # Messaging Feature.
-- Seller total earning feature and transactions history page. 
+- Like and comment feature.
+# Messaging Feature.
+- Users can message each other. 
 
 ## Suggestion and Feedback
 
