@@ -3,8 +3,8 @@
 
 // Define database credentials
 define('DB_HOST', 'localhost');
-define('DB_USER', 'kephh');
-define('DB_PASSWORD', 'kkkk');
+define('DB_USER', 'root');
+define('DB_PASSWORD', '');
 define('DB_NAME', 'test');
 
 function openDatabaseConnection() {
