@@ -3,9 +3,9 @@
 
 // Define database credentials
 define('DB_HOST', 'localhost');
-define('DB_USER', 'user');
-define('DB_PASSWORD', 'password');
-define('DB_NAME', 'db_name');
+define('DB_USER', 'kephh');
+define('DB_PASSWORD', 'kkkk');
+define('DB_NAME', 'test');
 
 function openDatabaseConnection() {
     $conn = new mysqli(DB_HOST, DB_USER, DB_PASSWORD, DB_NAME);
